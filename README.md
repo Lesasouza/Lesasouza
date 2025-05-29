@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 Olá estou trabalhando com Power BI, MS SQL, Power Apps, Power Automate, Excel, VBA, Pyton, R, M, DAX, SAP, HFM, PL/SQL
+
 <!--
 **Lesasouza/Lesasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
