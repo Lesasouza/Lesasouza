@@ -1,7 +1,7 @@
 ## Olá, eu sou o Leonardo 👋
 
 - 🔭 Trabalho com vários projetos, principalmente com Power BI utilizando ferramentas como:
-   * MS SQL, SSIS (Integration Services), Power Apps, Power Automate, Excel, VBA, Pyton, R, M, DAX, SAP, HFM.
+   * MS SQL, SSIS (Integration Services), Power Apps, Power Automate, Excel, VBA, Python, R, M, DAX, SAP, HFM.
 
 <div>
   <a href="https://github.com/lesasouza">
